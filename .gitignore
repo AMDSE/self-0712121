@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+# public/  (已生成的静态站点, 需提交到仓库由 Cloudflare 部署, 故取消忽略)
+.deploy*/
+_multiconfig.yml
